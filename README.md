@@ -127,7 +127,7 @@ top
 
 ---
 
-# ⬇️ Downloading Files
+#  Downloading Files
 
 | Command | Description |
 |--------|-------------|
@@ -143,7 +143,7 @@ wget https://example.com/file.txt
 
 ---
 
-# 🧠 Useful Security Command
+#  Useful Security Command
 
 | Command | Description |
 |--------|-------------|
