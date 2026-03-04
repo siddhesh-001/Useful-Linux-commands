@@ -166,19 +166,3 @@ history
 
 ---
 
-# 🧪 Practice Exercise
-
-Try running:
-
-```bash
-pwd
-ls -la
-cd /var/log
-tail syslog
-```
-
-This lets you explore real system logs.
-
----
-
-✔ Good for beginners learning Linux for cybersecurity and penetration testing.
