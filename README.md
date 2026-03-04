@@ -7,7 +7,7 @@
 
 3. **ls -la** (Shows hidden files and detailed info.)
 
-4. **cd** <foldername>* (Move into a directory.)
+4. cd <foldername>* (Move into a directory.)
 
 5. **cd ..** (Go back one directory.)
 
