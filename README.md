@@ -131,9 +131,9 @@ top
 
 | Command | Description |
 |--------|-------------|
-| `wget URL` | Download file |
-| `curl URL` | Fetch webpage |
-| `curl -O URL` | Download file |
+| `wget <URL>` | Download file |
+| `curl <URL>` | Fetch webpage |
+| `curl -O <URL>` | Download file |
 
 Example:
 
