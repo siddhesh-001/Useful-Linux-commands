@@ -15,13 +15,6 @@ A quick reference for essential Linux commands commonly used in cybersecurity, p
 | `cd ..` | Go back one directory |
 | `cd ~` | Go to home directory |
 
-Example:
-
-```bash
-pwd
-ls -la
-cd /var/log
-```
 
 ---
 
@@ -158,11 +151,4 @@ wget https://example.com/file.txt
 
 Attackers sometimes discover passwords or tokens in command history.
 
-Example:
-
-```bash
-history
-```
-
----
 
