@@ -11,4 +11,4 @@
 
 5. **cd ..** (Go back one directory.)
 
-6. **cd ~** (Go to home directory.)
+6. cd ~ (Go to home directory.)
