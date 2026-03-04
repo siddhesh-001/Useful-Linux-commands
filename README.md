@@ -1,14 +1,14 @@
-**Basic Navigation Commands**
+**--Basic Navigation Commands--**
 
 
-pwd (Shows your current directory (location).)
+1. **pwd** (Shows your current directory (location).)
 
-**ls** (Lists files and folders.)
+2. **ls** (Lists files and folders.)
 
-**ls -la** (Shows hidden files and detailed info.)
+3. **ls -la** (Shows hidden files and detailed info.)
 
-**cd** <foldername>* (Move into a directory.)
+4. **cd** <foldername>* (Move into a directory.)
 
-**cd ..** (Go back one directory.)
+5. **cd ..** (Go back one directory.)
 
-**cd ~** (Go to home directory.)
+6. **cd ~** (Go to home directory.)
