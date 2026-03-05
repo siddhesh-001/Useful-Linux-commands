@@ -4,7 +4,7 @@
 
 ---
 
-## 📂 Navigation
+##  Navigation
 
 | Command | Description |
 |--------|-------------|
@@ -31,7 +31,7 @@
 
 ---
 
-## 📁 File Management
+##  File Management
 
 | Command | Description |
 |--------|-------------|
@@ -66,7 +66,7 @@ rm -rf /
 
 ---
 
-## 🌐 Networking
+##  Networking
 
 | Command | Description |
 |--------|-------------|
@@ -77,7 +77,7 @@ rm -rf /
 
 ---
 
-## 🔐 Permissions
+##  Permissions
 
 | Command | Description |
 |--------|-------------|
