@@ -1,4 +1,4 @@
-# 🔌 Netcat Cheat Sheet (Network Cat)
+#  Netcat Cheat Sheet (Network Cat)
 
 `< >` indicates user input.
 
