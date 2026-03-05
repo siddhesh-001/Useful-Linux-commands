@@ -1,4 +1,4 @@
-# 🐧 Linux Commands Cheat Sheet (Cybersecurity Basics)
+# 🐧 Linux Basic Commands Cheat Sheet
 
 `< >` indicates user input.
 
