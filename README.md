@@ -28,11 +28,6 @@
 | `tail <file>` | Show last 10 lines |
 | `tail -f <log_file>` | Monitor logs in real time |
 
-Example:
-
-```bash
-tail -f /var/log/syslog
-```
 
 ---
 
