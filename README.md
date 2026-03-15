@@ -152,4 +152,4 @@ Permission values:
 | `/var/log/auth.log` | Login attempts |
 | `/var/log/syslog` | System logs |
 | `/var/log/apache2/access.log` | Web server access logs |
-| `/var/log/apache2/error.log` | Web server error logs |
+| `/var/log/apache2/error.log` | Web server error  |
