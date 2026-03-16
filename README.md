@@ -1,6 +1,6 @@
 ---
 
-Disclaime
+Disclaimer
 
 This repository is for educational purposes only. The commands provided here should be used responsibly in environments where you have proper authorization.
 
